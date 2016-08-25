@@ -1,0 +1,14 @@
+layout_spectrum: 0.9235675525851548
+typography_spectrum: 0.9094729146454483
+color:
+  brandStrength: 0.9910486042499542
+  lightness: 0.7571267979219556
+  saturation: 0.25181496934965253
+  rhythmicContrast: 0.17198901600204408
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: PartyPeopleTextWerk
