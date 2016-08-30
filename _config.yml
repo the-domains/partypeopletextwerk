@@ -11,6 +11,10 @@ color:
     - '#6B574B'
     - '#160600'
 layout_spectrum: 0.9235675525851548
-name: PartyPeopleTextWerk
+name: PARTYPEOPLETEXTWERK.COM
+navigation:
+  - name: Need a D.J.
+    url: 'http://ewcdjs.com'
+    type: external
 title: '"Connects You To Parties!"'
 description: Text On
